@@ -13,6 +13,17 @@
       "type": "MINION"
     },
     {
+      "artist": "Matt Dixon",
+      "cardClass": "HUNTER",
+      "flavor": "Rexxar narrowed his eyes, grabbed his machine gun, and said: \"It's go time.  Lock and load.\"\nThis card pays homage to that special moment.",
+      "id": "AT_061",
+      "name": "Lock and Load",
+      "rarity": "EPIC",
+      "set": "TGT",
+      "text": "Each time you cast a spell this turn, add a random Hunter card to your hand.",
+      "type": "SPELL"
+    },
+    {
       "artist": "Froilan Gardner",
       "cardClass": "NEUTRAL",
       "flavor": "Not a good basis for a system of government.",
@@ -37,18 +48,6 @@
       "type": "MINION"
     },
     {
-      "artist": "Evgeniy Zaqumyennyy",
-      "cardClass": "NEUTRAL",
-      "flavor": "His horse's name is Betsy.",
-      "health": 1,
-      "id": "AT_087",
-      "mechanics": ["CHARGE", "DIVINE_SHIELD"],
-      "name": "Argent Horserider",
-      "rarity": "COMMON",
-      "text": "<b>Charge</b>\n<b>Divine Shield</b>",
-      "type": "MINION"
-    },
-    {
       "artist": "Steve Prescott",
       "cardClass": "NEUTRAL",
       "flavor": "This champion has learned from the best.  Except for his target selection.",
@@ -60,29 +59,29 @@
       "text": "50% chance to attack the wrong enemy.",
       "type": "MINION"
     },
+
     {
-      "artist": "Slawomir Maniak",
-      "cardClass": "NEUTRAL",
-      "flavor": "Underneath all that impressive armor, he's just skin and bones.  Okay, maybe just bones.",
-      "health": 2,
-      "id": "AT_089",
-      "mechanics": ["INSPIRE"],
-      "name": "Boneguard Lieutenant",
-      "rarity": "COMMON",
-      "text": "<b>Inspire:</b> Gain +1 Health.",
-      "type": "MINION"
+      "artist": "Skan Srisuwan",
+      "cardClass": "HUNTER",
+      "flavor": "\"THEY'RE EVERYWHERE GET THEM OFF!!!\" - Everyone",
+      "id": "AT_062",
+      "name": "Ball of Spiders",
+      "rarity": "RARE",
+      "set": "TGT",
+      "text": "Summon three 1/1 Webspinners.",
+      "type": "SPELL"
     },
     {
-      "artist": "Andrew Hou",
-      "cardClass": "NEUTRAL",
-      "flavor": "An elegant gorilla, for a more civilized age.",
-      "health": 3,
-      "id": "AT_090",
-      "mechanics": ["INSPIRE"],
-      "name": "Mukla's Champion",
-      "race": "BEAST",
-      "rarity": "COMMON",
-      "text": "<b>Inspire:</b> Give your other minions +1/+1.",
+      "artist": "Tyson Murphy",
+      "cardClass": "HUNTER",
+      "flavor": "Takes way better care of her pets than her brother, Unstablemaster.",
+      "health": 2,
+      "id": "AT_057",
+      "mechanics": ["BATTLECRY"],
+      "name": "Stablemaster",
+      "rarity": "EPIC",
+      "referencedTags": ["IMMUNE"],
+      "text": "<b>Battlecry:</b> Give a friendly Beast <b>Immune</b> this turn.",
       "type": "MINION"
     },
     {
